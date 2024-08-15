@@ -1,2 +1,4 @@
 /.openapi-generator
 /.openapi-generator-ignore
+/build/
+/example/*.exe
