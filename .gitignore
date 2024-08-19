@@ -2,3 +2,7 @@
 /.openapi-generator-ignore
 /build/
 /example/*.exe
+/example/main
+/.vscode/
+/.idea/
+/cmake-build-debug/
